@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryDarkColor</item>
+    </style>
+
+    <!--Splashscreen theme-->
+    <style name="SplashscreenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="inpLabel">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="inpText">
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

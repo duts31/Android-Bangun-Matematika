@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Bangun Datar</string>
+    <string name="detailPersegi">
+        Keempat sisi persegi sama panjang
+        \n\t\tAB=BC=CD=AD
+        \n\nKeliling Persegi :
+        \n\t\t4 x sisi
+        \n\nLuas Persegi :
+        \n\t\tsisi x sisi
+    </string>
+    <string name="detailPanjang">
+        Persegi panjang memiliki 2 pasang sisi
+        \n\t\tAB=CD >> \"panjang\" dan
+        \n\t\tBC=AD >> \"lebar\"
+        \n\nKeliling Persegi Panjang :
+        \n\t\t2 x (panjang + lebar)
+        \n\nLuas Persegi Panjang :
+        \n\t\tpanjang x lebar
+    </string>
+    <string name="detailSegitiga">
+        Seperti namanya, segitiga memiliki 3 sisi.
+        \nAda tiga jenis segitiga, yaitu :
+        \n\t\t1. Segitiga Sama Sisi
+        \n\t\t2. Segitiga Siku-Siku
+        \n\t\t3. Segitiga Sembarang
+        \n\nKeliling Segitiga :
+        \n\t\tAB + BC + CD
+        \n\nLuas Segitiga :
+        \n\t\t1/2 x alas x tinggi
+        \n\n*Pada segitiga diatas :
+        \n\t\tAB = Alas Segitiga
+        \n\t\tCO = Tinggi Segitiga
+    </string>
+    <string name="detailLingkaran">
+        Panjang garis r pada lingkaran disebut jari - jari
+        \n2 x r disebut dengan diameter
+        \n\nKeliling Lingkaran :
+        \n\t\tphi x diameter
+        \n\nLuas Lingkaran :
+        \n\t\tphi x r x r atau
+        \n\t\t1/4 x phi x d x d
+        \n\n*phi = 22/7 atau 3,14
+    </string>
+    <string name="detailTrap">
+        Trapesium memiliki 2 sisi yang sejajar
+        \n\t\tAB // CD
+        \n\t\tDO merupakan tinggi trapesium
+        \n\nKeliling Trapesium :
+        \n\t\tAB + BC + CD + AD
+        \n\nLuas Trapesium :
+        \n\t\t1/2 x (jumlah sisi sejajar) x tinggi
+    </string>
+    <string name="detailJajar">
+        Jajar Genjang memiliki 2 pasang sisi
+        \n\t\tAB=CD >> \"alas\" dan
+        \n\t\tBC=AD
+        \n\t\tDO merupakan tinggi jajar genjang
+        \n\nKeliling Jajar Genjang :
+        \n\t\tAB + BC + CD + AD
+        \n\nLuas Jajar Genjang :
+        \n\t\talas x tinggi
+    </string>
+    <string name="detailLayang">
+        Layang - layang memiliki 2 pasang sisi
+        \n\t\tAB=BC dan AD=CD
+        \n\nDiagonal pada bangun layang - layang yaitu :
+        \n\t AC dan BD
+        \n\nKeliling Layang - Layang :
+        \n\t\tAB + BC + CD + AD
+        \n\nLuas Layang - Layang :
+        \n\t\t1/2 x diagonal1 x diagonal2
+    </string>
+</resources>
